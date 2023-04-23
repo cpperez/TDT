@@ -1,0 +1,62 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="" group-title="Spain",LA 1
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69297.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 " tvg-logo="" group-title="Spain",LA 2 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69298.ts
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="Spain",Antena 3
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69299.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro " tvg-logo="" group-title="Spain",Cuatro 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69300.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco" tvg-logo="" group-title="Spain",Telecinco
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69301.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA Sexta" tvg-logo="" group-title="Spain",LA Sexta
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69302.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aragon Tv" tvg-logo="" group-title="Spain",Aragon Tv
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69303.ts
+#EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-logo="" group-title="Spain",Neox
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69304.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nova " tvg-logo="" group-title="Spain",Nova 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69305.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="" group-title="Spain",Movistar Estrenos
+http://desastre3.deficoin.life/play/estrenos/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-logo="" group-title="Spain",Movistar Accion
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-logo="" group-title="Spain",Movistar Comedia
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69307.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama" tvg-logo="" group-title="Spain",Movistar Drama
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69309.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="" group-title="Spain",Movistar Series
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69308.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cale 13" tvg-logo="" group-title="Spain",Cale 13
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69310.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="" group-title="Spain",Hollywood
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69311.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Spain",Comedy Central
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69312.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="" group-title="Spain",Syfy
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69313.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="" group-title="Spain",AXN 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69314.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX " tvg-logo="" group-title="Spain",FOX 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69315.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic " tvg-logo="" group-title="Spain",National Geographic 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69316.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild " tvg-logo="" group-title="Spain",National Geographic Wild 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69317.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery " tvg-logo="" group-title="Spain",Discovery 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caza Y Pesca" tvg-logo="" group-title="Spain",Caza Y Pesca
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crimen + Investigacion" tvg-logo="" group-title="Spain",Crimen + Investigacion
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69323.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="" group-title="Spain",Boing
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69321.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr " tvg-logo="" group-title="Spain",Nick Jr 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69320.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior  " tvg-logo="" group-title="Spain",Disney Junior  
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69322.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel " tvg-logo="" group-title="Spain",Disney Channel 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69324.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cocina " tvg-logo="" group-title="Spain",Canal Cocina
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117200
